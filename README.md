@@ -63,6 +63,7 @@ https://www.python.org/downloads/
 Verify installation:
 
 python --version
+
 2️⃣ Install Git (Optional but recommended)
 Download Git:
 
@@ -71,6 +72,7 @@ https://git-scm.com/downloads
 Verify installation:
 
 git --version
+
 3️⃣ Clone the Repository
 git clone https://github.com/yourusername/curricuforge-ai.git
 cd curricuforge-ai
@@ -86,6 +88,7 @@ Windows
 .venv\Scripts\activate
 Mac/Linux
 source .venv/bin/activate
+
 5️⃣ Install Required Libraries
 Create a requirements.txt
 
