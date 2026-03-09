@@ -1,1 +1,12 @@
 
+streamlit>=1.32.0
+groq>=0.5.0
+
+
+Then install dependencies with:
+pip install -r requirements.txt
+Run your app:
+streamlit run ai.py
+Then open:
+
+http://localhost:8501
